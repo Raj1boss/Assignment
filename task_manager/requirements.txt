@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jul 17 16:47:14 2025
+
+@author: rakumar
+"""
+
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Migrate
+Flask-Swagger-UI
+pytest
